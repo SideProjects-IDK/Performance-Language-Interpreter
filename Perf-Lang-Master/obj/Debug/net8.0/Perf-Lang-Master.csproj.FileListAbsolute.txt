@@ -1,0 +1,14 @@
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\bin\Debug\net8.0\Perf-Lang-Master.exe
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\bin\Debug\net8.0\Perf-Lang-Master.deps.json
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\bin\Debug\net8.0\Perf-Lang-Master.runtimeconfig.json
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\bin\Debug\net8.0\Perf-Lang-Master.dll
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\bin\Debug\net8.0\Perf-Lang-Master.pdb
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.GeneratedMSBuildEditorConfig.editorconfig
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.AssemblyInfoInputs.cache
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.AssemblyInfo.cs
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.csproj.CoreCompileInputs.cache
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.dll
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\refint\Perf-Lang-Master.dll
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.pdb
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\Perf-Lang-Master.genruntimeconfig.cache
+G:\hzBasic\Perf-Lang-Master\Perf-Lang-Master\obj\Debug\net8.0\ref\Perf-Lang-Master.dll
